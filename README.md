@@ -231,15 +231,16 @@ Here are some ideas to get you started:
 	<p>
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=azasratruth&show_icons=true&locale=en&layout=compact&theme=graywhite"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=azasratruth&hide=blade,html,css&show_icons=true&locale=en&layout=compact&theme=graywhite"
 			alt="azasratruth"
 			style="border-radius:3rem;"
 		/>
 	</p>
+	I use JIRA & Trello for issues. 😅
 	<p>
 		<img
 			align="center"
-			src="https://github-readme-stats-one-mu-28.vercel.app/api?username=azasratruth&count_private=true&include_all_commits=true&hide=stars,contribs,prs&show_icons=true&locale=en&theme=graywhite"
+			src="https://github-readme-stats-one-mu-28.vercel.app/api?username=azasratruth&count_private=true&include_all_commits=true&hide=stars,contribs,prs&show=prs_merged_percentage&show_icons=true&locale=en&theme=graywhite"
 			alt="azasratruth"
 			style="border-radius:3rem;"
 		/>
