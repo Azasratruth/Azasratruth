@@ -228,7 +228,8 @@ Here are some ideas to get you started:
 		</a>
 	</p>
 	<br /><br />
-	<p>
+	I used to use PHP, not it's mostly TS. 
+    <p>
 		<img
 			align="center"
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=azasratruth&hide=blade,html,css&show_icons=true&locale=en&layout=compact&theme=graywhite"
@@ -240,7 +241,7 @@ Here are some ideas to get you started:
 	<p>
 		<img
 			align="center"
-			src="https://github-readme-stats-one-mu-28.vercel.app/api?username=azasratruth&count_private=true&include_all_commits=true&hide=stars,contribs,prs&show=prs_merged_percentage&show_icons=true&locale=en&theme=graywhite"
+			src="https://github-readme-stats-one-mu-28.vercel.app/api?username=azasratruth&rank_icon=github&count_private=true&include_all_commits=true&hide=stars,contribs,prs&show=prs_merged_percentage&show_icons=true&locale=en&theme=graywhite"
 			alt="azasratruth"
 			style="border-radius:3rem;"
 		/>
@@ -296,8 +297,8 @@ Here are some ideas to get you started:
 -   💬 Ask me about **personality and job roles, startups, behavioral sciences.**
     <!-- </div> -->
     <!-- <div> -->
--   📫 How to reach me **[LinkedIn?](https://www.linkedin.com/in/azasratruth/).**
+-   📫 How to reach me... **[LinkedIn?](https://www.linkedin.com/in/azasratruth/).**
     <!-- </div> -->
     <!-- <div> -->
--   ⚡ Fun fact **the last word of this sentence is incomplet.**
+-   ⚡ Fun fact **bun is VC funded while node was built on 'thanks'.**
       <!-- </div> -->
