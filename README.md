@@ -282,10 +282,10 @@ Here are some ideas to get you started:
 
 <!-- <div> -->
 
--   🔭 I’m currently working on [Maton](https://www.humane.systems/maton)
+-   🔭 I’m currently working on [Humane](https://www.humane.systems)
     <!-- </div> -->
     <!-- <div> -->
--   🌱 I’m currently learning **behavioral sciences, increasing my React knowledge.**
+-   🌱 I’m currently learning **behavioral sciences, increasing my React expertise.**
     <!-- </div> -->
     <!-- <div> -->
 -   👯 I’m looking to collaborate on [Humane](https://www.humane.systems)
@@ -300,5 +300,5 @@ Here are some ideas to get you started:
 -   📫 How to reach me... **[LinkedIn?](https://www.linkedin.com/in/azasratruth/).**
     <!-- </div> -->
     <!-- <div> -->
--   ⚡ Fun fact **bun is VC funded while node was built on 'thanks'.**
+-   ⚡ Fun fact **I've written over 350K words in the last year.**
       <!-- </div> -->
