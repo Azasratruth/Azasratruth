@@ -228,20 +228,19 @@ Here are some ideas to get you started:
 		</a>
 	</p>
 	<br /><br />
-	I used to use PHP, not it's mostly TS. 
+	I used to use PHP, now it's mostly TS. 
     <p>
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=azasratruth&hide=blade,html,css&show_icons=true&locale=en&layout=compact&theme=graywhite"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=azasratruth&hide=php,blade,html,css&show_icons=true&locale=en&layout=compact&theme=graywhite"
 			alt="azasratruth"
 			style="border-radius:3rem;"
 		/>
 	</p>
-	I use JIRA & Trello for issues. 😅
 	<p>
 		<img
 			align="center"
-			src="https://github-readme-stats-one-mu-28.vercel.app/api?username=azasratruth&rank_icon=github&count_private=true&include_all_commits=true&hide=stars,contribs,prs&show=prs_merged_percentage&show_icons=true&locale=en&theme=graywhite"
+			src="https://github-readme-stats-one-mu-28.vercel.app/api?username=azasratruth&rank_icon=github&count_private=true&include_all_commits=true&hide=stars,contribs,prs,issues&show=prs_merged_percentage&show_icons=true&locale=en&theme=graywhite"
 			alt="azasratruth"
 			style="border-radius:3rem;"
 		/>
@@ -282,16 +281,16 @@ Here are some ideas to get you started:
 
 <!-- <div> -->
 
--   🔭 I’m currently working on [Humane](https://www.humane.systems)
+-   🔭 I’m currently working on [Humane](https://www.humane.systems).
     <!-- </div> -->
     <!-- <div> -->
 -   🌱 I’m currently learning **behavioral sciences, increasing my React expertise.**
     <!-- </div> -->
     <!-- <div> -->
--   👯 I’m looking to collaborate on [Humane](https://www.humane.systems)
+-   👯 I’m looking to collaborate on [Humane](https://www.humane.systems).
     <!-- </div> -->
     <!-- <div> -->
--   🤝 I’m looking for help with [a political system](https://www.humane.systems)
+-   🤝 I’m looking for help with [a political system](https://www.humane.systems).
     <!-- </div> -->
     <!-- <div> -->
 -   💬 Ask me about **personality and job roles, startups, behavioral sciences.**
@@ -300,5 +299,6 @@ Here are some ideas to get you started:
 -   📫 How to reach me... **[LinkedIn?](https://www.linkedin.com/in/azasratruth/).**
     <!-- </div> -->
     <!-- <div> -->
--   ⚡ Fun fact **I've written over 350K words in the last year.**
+    <!-- -   ⚡ Fun fact **I've written over 350K words in the last year.** -->
+-   ⚡ **I've written over 350K words in the last year.**
       <!-- </div> -->
