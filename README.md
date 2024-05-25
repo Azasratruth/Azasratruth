@@ -300,5 +300,5 @@ Here are some ideas to get you started:
     <!-- </div> -->
     <!-- <div> -->
     <!-- -   ⚡ Fun fact **I've written over 350K words in the last year.** -->
--   ⚡ **I've written over 350K words in the last year.**
+-   ⚡ **I've over 2.5K tabs open on my laptop.**
       <!-- </div> -->
